@@ -40,7 +40,7 @@ page|주석 혹은 본문 내용[URL]
 
 
 
-## CHAPTER 2 머신러닝 프로젝트 A to Z
+### CHAPTER 2 머신러닝 프로젝트 A to Z
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |67P|아직 Git [https://git-scm.com] 을 설치하지 않았다면 Git을 설치해야 합니다. Git은 코드를 위한 버전 관리 시스템이며, 이 책의 모든 코딩 예제는 깃허브 리포지토리[https://github.com/aapatel09/handson-unsupervised-learning] 에서 가져와 주피터 노트북으로 이용할 수 있습니다.|
@@ -66,7 +66,7 @@ page|주석 혹은 본문 내용[URL]
 |105P|머신러닝 솔루션의 결과를 개선하고 과소 적합/과대 적합을 해결하기 위해 하이퍼파라미터(하이퍼파라미터 파인튜닝fine-tuning22이라고 알려진 프로세스)를 조정하는 방법을 살펴보지 않았지만 깃허브 코드[https://github.com/aapatel09/handson-unsupervised-learning]를 통해 이러한 실험을 매우 쉽게 수행할 수 있습니다.|
 |111P|앙상블 학습에 대한 더 자세한 내용은 다음 세 링크를 참고하십시오. Kaggle Ensembling Guide[https://mlwave.com/kaggle-ensembling-guide] Introduction to Ensembling/Stacking in Python[https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python] A Kaggler’s Guide to Model Stacking in Practice[http://blog.kaggle.com/2016/12/27/a-kagglers-guide-to-model-stacking-in-practice]|
 
-## CHAPTER 3 차원 축소
+### CHAPTER 3 차원 축소
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |122P|옮긴이_미국 국립 표준 기술 연구소(NIST)의 원본 데이터 셋의 샘플을 재혼합하고, 머신러닝 알고리즘을 용이하게 적용하기 위해 전처리를 거친 데이터라는 의미에서 앞에 M(mixed or remix)을 붙여 MNIST라고 합니다.[https://en.wikipedia.org/wiki/MNIST_database]|
@@ -78,7 +78,7 @@ page|주석 혹은 본문 내용[URL]
 |144P|옮긴이_ 매니폴드는 국소적으로 유클리드 공간과 닮은 위상 공간입니다. 즉 두 점 사이의 거리 혹은 유사도가 근거리에서는 유클리디안 거리(Euclidean metric, 직선 거리)를 따르지만 원거리에서는 그렇지 않은 공간을 말합니다. [https://ko.wikipedia.org/wiki/%EB%8B%A4%EC%96%91%EC%B2%B4]|
 
 
-## CHAPTER 4 이상치 탐지
+### CHAPTER 4 이상치 탐지
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |166P|옮긴이_ 알파 파라미터의 값이 클수록 더 희소한 주성분을 생성합니다.[https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html]|
@@ -86,7 +86,7 @@ page|주석 혹은 본문 내용[URL]
 |176P|옮긴이_ 과소완전 사전은 실제 입력 데이터가 저차원 공간에 있는 설정을 나타냅니다. 완전한 사전은 표현적 관점에서 어떠한 개선도 제공하지 않습니다. 앞에서 원본 차원과 동일한 주성분의 수를 생성하는 것은 이상 탐지에서 의미가 없다는 개념과 동일합니다. [https://en.wikipedia.org/wiki/Sparse_dictionary_learning]|
 
 
-## CHAPTER 5 클러스터링 
+### CHAPTER 5 클러스터링 
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |201P|fastcluster에 대한 자세한 내용은 해당 프로젝트 웹 페이지를 확인하십시오.[https://pypi.org/project/fastcluster]|
@@ -94,20 +94,20 @@ page|주석 혹은 본문 내용[URL]
 |210P|옮긴이_ 롱테일(long tail)은 파레토 법칙을 그래프에 나타냈을 때 기하 급수적으로 줄어들며 꼬리처럼 긴 모양을 형성하는 나머지 20%를 말합니다. [https://ko.wikipedia.org/wiki/%EA%B8%B4_%EA%BC%AC%EB%A6%AC]|
 
 
-## CHAPTER 6 그룹 세분화 
+### CHAPTER 6 그룹 세분화 
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |214P|옮긴이_ P2P(peer-to-peer) 대출은 온라인에서 여러 명이 투자금을 모아 다른 개인이나 기업에게 빌려주는 방식으로 대출을 중개하는 금융 서비스입니다. [https://ko.wikipedia.org/wiki/P2P_%EB%8C%80%EC%B6%9C]|
 |214P|[https://www.lendingclub.com/auth/login?login_url=%2Finfo%2Fdownload-data.action]|
 |217P|옮긴이_ NaN(Not a Number)은 컴퓨터 연산 과정에서 잘못된 입력을 받았음을 나타내는 기호입니다. 특히 부동 소수점 연산에서 사용합니다. 예를 들어서, 대부분 부동 소수점 장치는 음수에 제곱근을 구하려는 연산에 대해서 이것은 불가능(invalid)하다는 메시지와 함께 NaN 값을 반환합니다. [https://en.wikipedia.org/wiki/NaN]|
 
-## CHAPTER 7 오토인코더
+### CHAPTER 7 오토인코더
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |242P|텐서플로를 더 자세히 알아보려면 다음 웹사이트를 참조하십시오.[https://www.tensorflow.org]|
 |244P|옮긴이_ 항등 함수란 모든 정의역 x에 대해 f(x) = x를 만족하는 함수입니다.[https://en.wikipedia.org/wiki/Identity_function]|
 
-## CHAPTER 8 핸즈온 오토인코더 
+### CHAPTER 8 핸즈온 오토인코더 
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |256P|케라스 순차 모델을 더 자세히 알고 싶으면 다음 공식 문서를 참조하십시오.[https://keras.io/getting-started/sequential-model-guide]|
@@ -117,7 +117,7 @@ page|주석 혹은 본문 내용[URL]
 |259P|평가지표에 대한 더 자세한 내용은 다음 문서를 참조하십시오.[https://keras.io/metrics]
 
 
-## CHAPTER 10 RBM을 사용한 추천 시스템 
+### CHAPTER 10 RBM을 사용한 추천 시스템 
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |315P|옮긴이_ 판도라는 뮤직 게놈 프로젝트에 기반한 자동 음악 추천 시스템 및 인터넷 라디오 서비스입니다.[https://ko.wikipedia.org/wiki/%ED%8C%90%EB%8F%84%EB%9D%BC_(%EC%9D%8C%EC%95%85_%EC%84%9C%EB%B9%84%EC%8A%A4]|
@@ -127,7 +127,7 @@ page|주석 혹은 본문 내용[URL]
 |333P|이 주제에 대한 더 자세한 내용은 “On Contrastive Divergence Learning” 논문을 참조하십시오.[http://www.cs.toronto.edu/~fritz/absps/cdmiguel.pdf]|
 
 
-## CHAPTER 12 GAN
+### CHAPTER 12 GAN
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |377P|DCGAN을 더 자세히 알고 싶으면 다음 공식 문서를 참조하십시오. [https://arxiv.org/abs/1511.06434]|
@@ -141,7 +141,7 @@ page|주석 혹은 본문 내용[URL]
 |392P|더 자세히 알아보고 싶으면 다음 논문을 살펴보십시오. [https://arxiv.org/abs/1406.2661]|
 |393P|다음의 게시물에서 GAN을 개선[https://github.com/soumith/ganhacks]하고 성능을 향상[https://medium.com/@utk.is.here/keep-calm-and-train-a-gan-pitfalls-and-tips-on-training-generative-adversarial-networks-edd529764aa9]시키는 몇 가지 팁과 방법을 확인하십시오.|
 
-## CHAPTER 13 시계열 
+### CHAPTER 13 시계열 
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |397P|옮긴이_ 스케일링 및 이동의 변화에 불변하는 유사성 척도를 더 알고 싶으면 다음을 참조하십시오.[https://patents.google.com/patent/KR101649766B1/ko]|
@@ -152,7 +152,7 @@ page|주석 혹은 본문 내용[URL]
 
 
 
-## CHAPTER 14 결론
+### CHAPTER 14 결론
 page|주석 혹은 본문 내용[URL]
 -----|-----
 |425P|PitchBook[https://pitchbook.com/news/articles/2017-year-in-review-the-top-vc-rounds-investors-in-ai] 에 따르면 벤처 캐피탈 투자자는 2017년 AI 및 머신러닝 회사에 108억 달러 이상을 투자했습니다. 이는 2010년 5억 달러에서 지속적으로 증가했으며, 2016년에 투자된 57억 달러의 거의 2배 가까운 수치입니다.|
