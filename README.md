@@ -3,12 +3,7 @@
 
 <img src="book_cover.jpg" title="book" width="400" />
 
-이 책은 다음의 서점에서 판매 중입니다. [Yes24](http://www.yes24.com/Product/Goods/91119565?scode=032&OzSrank=1), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B7126889829)    
-
-
-
-
-
+이 책은 다음의 서점에서 판매 중입니다. [Yes24](http://www.yes24.com/Product/Goods/91119565?scode=032&OzSrank=1), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B7126889829)
 ## 도서 소개
 많은 업계 전문가들은 인공지능 연구의 궁극적인 목표인 이른바 일반 인공지능 (GAI, General Artificial Intelligence)을 구현하기 위해서 필요한 핵심 기술로 비지도 학습 (Unsupervised Learning)을 꼽습니다. 왜냐하면 대부분의 현실 세계 데이터에는 레이블이 없기 때문에 기존의 지도 학습 기법을 적용할 수 없기 때문입니다. 비지도 학습을 레이블이 없는 데이터셋에 적용하면 인간이 발견하기 거의 불가능한 패턴이나 데이터 깊이 묻혀 있는 의미 있는 패턴을 발견할 수 있습니다.
 
