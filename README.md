@@ -5,7 +5,7 @@
 
 이 책은 다음의 서점에서 판매 중입니다. [Yes24](http://www.yes24.com/Product/Goods/91119565?scode=032&OzSrank=1), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B7126889829)
 
-* **이 책은 다음의 서점에서 판매 중입니다**: [Yes24](http://www.yes24.com/Product/Goods/91119565?scode=032&OzSrank=1), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B7126889829)
+* *이 책은 다음의 서점에서 판매 중입니다*: [Yes24](http://www.yes24.com/Product/Goods/91119565?scode=032&OzSrank=1), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B7126889829)
 
 
 ## 도서 소개
