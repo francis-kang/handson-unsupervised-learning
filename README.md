@@ -32,7 +32,7 @@
 |3장<br>5장<br>11장<br>12장|	MNIST Data|Github|경로링크:<br>[[MNIST]](https://github.com/francis-kang/handson-unsupervised-learning/blob/master/datasets/mnist_data/mnist.pkl.gz)|	15MB||
 |6장|	랜딩클럽 대출 Data|Github|경로링크:<br>[[랜딩클럽]](https://github.com/francis-kang/handson-unsupervised-learning/blob/master/datasets/lending_club_data/LoanStats3a.csv)|	28MB|	
 |10장|	무비렌즈 Data|Web|경로링크:<br>[[무비렌즈]](https://grouplens.org/datasets/movielens/20m/)|	190MB|	무비렌즈 웹 사이트 https://grouplens.org/datasets/movielens/20m/ 에서 직접 파일을 다운로드해야 합니다.|
-|13장|	UCR 시계열 컬렉션 Data|Web|경로링크:<br>[[UCR]](https://www.cs.ucr.edu/~eamonn/time_series_data/)|	350MB|	UCR 시계열 웹 사이트 https://www.cs.ucr.edu/~eamonn/time_series_data/ 에서  파일을 다운로드해야 합니다. 웹페이지 방문 후 다음 문장 "Then you can download then entire archive " 의 링크를 들어가시거나 다음 URL https://www.cs.ucr.edu/~eamonn/time_series_data/UCR_TS_Archive_2015.zip 로 들어가면 다운로드를 받을 수 있습니다. 압축 데이터 풀기할때 비밀번호는 attempttoclassify 입니다.|
+|13장|	UCR 시계열 컬렉션 Data|Web|경로링크:<br>[[UCR]](https://www.cs.ucr.edu/~eamonn/time_series_data/)|	350MB|	UCR 시계열 웹 사이트 https://www.cs.ucr.edu/~eamonn/time_series_data/ 에서  파일을 다운로드해야 합니다. 웹페이지 방문 후 다음 문장 "Then you can download the entire archive " 의 링크를 들어가시거나 다음 URL https://www.cs.ucr.edu/~eamonn/time_series_data/UCR_TS_Archive_2015.zip 로 들어가면 다운로드를 받을 수 있습니다. 압축 데이터 풀기할때 비밀번호는 attempttoclassify 입니다.|
 
 
 ## 번역서 내 주석 및 참고URL 목록
