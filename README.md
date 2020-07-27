@@ -24,7 +24,7 @@
 
 
 ## 실습 데이터 셋 다운로드 경로 및 참고 사항
-아래 표는 번역서 내용에 포함된 실습 데이터셋, 다운로드 경로 및 참고 사항입니다. 실습 코드를 실행을 위한 데이터셋 다운로드시 참고하시기 바랍니다.
+아래 표는 번역서 내용에 포함된 실습 데이터셋, 다운로드 경로 및 참고 사항입니다. 실습 코드를 실행을 위해 데이터 셋 다운로드시 참고하시기 바랍니다.
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 활용 Chapter	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 실습 Data| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 다운로드 방식|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>파일경로|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 파일 크기| 참고사항|
 |:-----:|:-----:|:-----:|:-----:|:-----:|----------------|
