@@ -23,6 +23,17 @@
 - 최신 비지도 학습 성공 사례 및 향 후 전망에 대한 탐색
 
 
+## 실습 데이터 셋 다운로드 경로 및 참고 사항
+아래 표는 번역서 내용에 포함된 실습 데이터셋, 다운로드 경로 및 참고 사항입니다. 실습 코드를 실행을 위한 데이터셋 다운로드시 참고하시기 바랍니다.
+
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 활용 Chapter	| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 실습 Data| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 다운로드 방식|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>파일경로|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br> 파일 크기| 참고사항|
+|:-----:|:-----:|:-----:|:-----:|:-----:|----------------|
+|2장<br>4장<br>8장<br>9장|신용카드 거래 Data|Github|경로링크:<br>[[신용카드]](https://github.com/francis-kang/handson-unsupervised-learning/blob/master/datasets/credit_card_data/credit_card.csv)<br>|144MB|신용카드 거래 데이터 셋의 데이터 용량은 144MB이고 깃허브에 올려져 있습니다. 이 데이터셋은 100MB가 넘는 데이셋으로 깃허브 웹에서 데이터 보기(view) 및 다운로드 버튼으로 데이터를 보거나 다운로드 할 수 없으며, 깃저장소 기능인 LFS를 사용해야합니다. <br><br>이와 관련한 설명이 번역서 70페이지에  나와있습니다. <br>[관련 내용] <br>$ git clone https://github.com/francis-kang/handson-unsupervised-learning.git <br>$ git lfs pull <br>옮긴이_ LFS란 Large File Storage를 뜻하고 대용량 파일을 관리하는 깃 저장소입니다. 대용량 파일을 복제하기 위해서는 LFS를 로컬 컴퓨터에 설치한 후 리포지터리를 복제해야 파일이 잘 복제됩니다. LFS를 설치하지 않고 리포지터리를 복제할 경우 일부 파일이 복제되지 않습니다. git LFS 설치 파일 다운로드 경로는 다음과 같습니다. https://git-lfs.github.com  <br><br><br> 이 데이터 셋은 웹 사이트에서도 다운로드 받을 수 있습니다. <br><br>이와 관련된 설명은 번역서 74페이지에 있습니다.  <br>[관련 내용]<br> 이 데이터셋은 캐글(https://www.kaggle.com/mlg-ulb/creditcardfraud)을 통해 구할 수 있으며, Worldline과 University of Libre de Bruxelles의 머신러닝 그룹이 공동 연구를 진행하면서 수집했습니다. 자세한 정보는 다음 자료를 참고하십시오. Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi, 「Calibrating Probability with Undersampling for Unbalanced Classification」 in Symposium on Computational Intelligence and Data Mining(CIDM), IEEE, 2015"|
+|3장<br>5장<br>11장<br>12장|	MNIST Data|Github|경로링크:<br>[[MNIST]](https://github.com/francis-kang/handson-unsupervised-learning/blob/master/datasets/mnist_data/mnist.pkl.gz)|	15MB||
+|6장|	랜딩클럽 대출 Data|Github|경로링크:<br>[[랜딩클럽]](https://github.com/francis-kang/handson-unsupervised-learning/blob/master/datasets/lending_club_data/LoanStats3a.csv)|	28MB|	
+|10장|	무비렌즈 Data|Web|경로링크:<br>[[무비렌즈]](https://grouplens.org/datasets/movielens/20m/)|	190MB|	무비렌즈 웹 사이트 https://grouplens.org/datasets/movielens/20m/ 에서 직접 파일을 다운로드해야 합니다.|
+|13장|	UCR 시계열 컬렉션 Data|Web|경로링크:<br>[[UCR]](https://www.cs.ucr.edu/~eamonn/time_series_data/)|	350MB|	UCR 시계열 웹 사이트 https://www.cs.ucr.edu/~eamonn/time_series_data/ 에서  파일을 다운로드해야 합니다. 웹페이지 방문 후 다음 문장 "Then you can download then entire archive " 의 링크를 들어가시거나 다음 URL https://www.cs.ucr.edu/~eamonn/time_series_data/UCR_TS_Archive_2015.zip 로 들어가면 다운로드를 받을 수 있습니다. 압축 데이터 풀기할때 비밀번호는 attempttoclassify 입니다.|
+
 
 ## 번역서 내 주석 및 참고URL 목록
 아래 표는 번역서 내용에 포함된 주석과 참고 URL 목록입니다. 참고 사이트 방문 시 활용하세요.
